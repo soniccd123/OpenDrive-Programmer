@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 28)
+    (drawings 27)
     (tracks 1703)
     (zones 0)
     (modules 47)
@@ -2646,9 +2646,6 @@
   )
   (gr_text 74HC590 (at 124.968 85.2424 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (gr_text "OpenDrive Reader v1\nAugusto Isotton\n2020" (at 136.5504 63.754 90) (layer F.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "GND\n" (at 98.6536 43.8912 90) (layer F.SilkS) (tstamp 5FD6E8F2)
     (effects (font (size 1 1) (thickness 0.15)))

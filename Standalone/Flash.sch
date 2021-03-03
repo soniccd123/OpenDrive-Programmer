@@ -1655,8 +1655,6 @@ NoConn ~ 14200 3800
 NoConn ~ 14200 3700
 NoConn ~ 14200 3600
 NoConn ~ 14200 3500
-NoConn ~ 14200 3400
-NoConn ~ 14200 3300
 NoConn ~ 14200 2600
 NoConn ~ 14200 2500
 NoConn ~ 14200 2400
@@ -1900,4 +1898,8 @@ F 3 "" H 9250 4300 50  0001 C CNN
 	1    9250 4300
 	1    0    0    -1  
 $EndComp
+Text Label 14200 3300 0    50   ~ 0
+A21
+Text Label 14200 3400 0    50   ~ 0
+A22
 $EndSCHEMATC

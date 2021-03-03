@@ -1655,8 +1655,6 @@ NoConn ~ 14200 3800
 NoConn ~ 14200 3700
 NoConn ~ 14200 3600
 NoConn ~ 14200 3500
-NoConn ~ 14200 3400
-NoConn ~ 14200 3300
 NoConn ~ 14200 2600
 NoConn ~ 14200 2500
 NoConn ~ 14200 2400
@@ -2048,4 +2046,8 @@ $EndComp
 NoConn ~ 7650 8750
 NoConn ~ 6400 7650
 NoConn ~ 6400 7750
+Text Label 14200 3300 0    50   ~ 0
+A21
+Text Label 14200 3400 0    50   ~ 0
+A22
 $EndSCHEMATC
